@@ -7,8 +7,8 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 
 # 描述/签名
-name: LOFFER
-description: 一个可以fork的博客
+name: 红眼航班
+description: 感受的存在千真万确
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -16,7 +16,7 @@ url:
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /LOFFER
+baseurl: /Smailhtra
 
 
 #
@@ -73,14 +73,14 @@ footer-text: Copyright (c) 2019 来自中世界
 #
 
 # 输入Disqus shortname，即可添加评论区
-disqus: loffer #shortname
+disqus: #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: 2fa75dcee28e00f8da3b
+  clientSecret: 86002de53e1c57dc58208c33717452351ccb70cd
+  repo: Smailhtra
+  owner: ArthiiNW
 
 # 输入Google Analytics web tracking code
 google_analytics:
